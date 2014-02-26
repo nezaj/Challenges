@@ -1,0 +1,15 @@
+*.py[cod]
+
+# Mac stuff
+.DS_STORE
+
+# Editor detritus
+*~
+*#
+.#*
+.*.swp
+
+# Packages
+*.egg
+*.egg-info
+__pycache__
